@@ -1,0 +1,286 @@
+阿甘本：艺术作品的源初结构
+=============================
+发布时间：2009-10-24 00:22
+阿甘本说，荷尔德林的认为作品只是一个句子，很让我们困惑，需要从下面这个海德格尔曾涉及的角度，才能更好地认识：人要达到历史的存在，需要一个东西将他导入其历史存在，这个东西就是艺术作品。
+艺术品是人走向历史存在时用的这样一种结构。什么是结构？先不管现代结构主义怎么说的，阿甘本回溯到亚里士多德：结构是各种因素的集合。但他觉得这仍是现代主义式的。于他他再追到早期希腊哲学家，从节奏（韵律）与数来理解“结构”这个说法。现代结构主义者认为，结构就是作品外围；但阿甘本指出，作为艺术品的本源的结构，可能是韵律，而后者据那些哲学家可能是人的存在的本质。
+艺术作品是一种制造这种韵律的architectonic（结构、构造技术），是poiesis（自我生产），是对本源的创造式、自我生产式导引。艺术向我们匮赠人的本源空间。艺术也是像其 他的神秘仪式那样，是要打破我们所处的亵渎式时间，激活原本的神秘时间，使人重新成为神的同代人。在艺术品中，线性时间的连续性被打破，人在过去和未来之间恢复了他的在场空间。凝视一个艺术品，意味着被抛到了一个更本源的时间中：我们被拖入韵律的开天辟地般的打开中的狂喜the epochal opening of rhythm，它既给予，又夺回。这是人的最高介入。在体验艺术品时，人站到了真理中。也就是说，站到了那一创造性行动中所揭示给他的真理中。在这一抛出中，艺术家与观众恢复了他们原初步的团结。这是美学做不到的。
+荷尔德林说的艺术品是一个句子，意思是：它导引我们进入那一本源时间，使人恢复其在地球上的诗性存在的地位，使人不再暗晦于其历史存在：在历史存在与他的诗性存在之间再没有隔离。
+ § 9 The Original Structure of the Work of Art
+”Everything is rhythm, the entire destiny of man is one heavenly rhythm, just
+as every work of art is one rhythm, and everything swings from the poetizing
+lips of the god.” 1 This statement was not passed down to us by Hlderlin's
+own hand. It is from a period of his life--1807-43--that we usually define as the
+years of his insanity. The words that compose it were transcribed by a visitor's
+sympathetic hand from the ”incoherent speech” that he uttered in his room in
+the house of the carpenter Zimmer. Bettina von Arnim, including them in her
+book Die Günderode, commented: ”[ Hlderlin's] words are for me like the
+words of an oracle, which he exclaims in his madness like the priest of the
+58
+god, and certainly the whole worldly life is senseless for him, since it does not
+touch him. . . . He is an apparition, and light streams into my thought.” 2
+What Hlderlin's sentence says appears at first blush too obscure and general
+to tempt us to take it into consideration in a philosophical query on the work of
+art. However, if we want to submit to its proper meaning, that is, if we want, in
+order to correspond to it, to make it first of all into a problem for us, then the
+question that immediately arises is: what is rhythm, which Hlderlin attributes
+to the work of art as its original characteristic?
+The word ”rhythm” is not foreign to the tradition of Western thought. We
+encounter it, for example, at a crucial point of Aristotle's Physics, at the
+beginning of Book II, precisely at the moment when Aristotle, after reviewing
+and criticizing the theories of his predecessors, tackles the problem of the
+definition of nature. To be sure, Aristotle does not directly use the word rhythm
+(υθμ); however, he employs the privative expression τ ρρθμιστον,
+meaning that which in itself lacks rhythm. Seeking the essence of nature, he
+relates the opinion of the sophist Antiphon, according to whom nature is τ
+πρω + τον ρρθμιστον, that which is in itself shapeless and without
+structure, inarticulate matter subtended to any shape and mutation, that is, the
+prime and irreducible element (στοιχY+03B5ι + ον), identified by some with
+fire, by others with earth, air, and water ( Aristotle, Physics 1 93)a). In contrast
+to τ πρω + τον ρρθμιστον, υθμ is what adds itself to this immutable
+substratum and, by adding itself to it, composes and shapes it, giving it
+structure. In this sense, rhythm is structure, scheme, in opposition to
+elemental, inarticulate nature. 3
+Understood from this perspective, Hlderlin's sentence would mean that every
+work of art is one structure, and would therefore imply an interpretation of the
+original being of the work of art as υθμ, structure. If this is true, the
+sentence would also in some way point toward the path taken by
+contemporary criticism when it seeks the ”structures” of the work of art,
+abandoning traditional aesthetics.
+But is it in fact so? Let us not rush to conclusions. If we took at the different
+meanings the word ”structure” assumes today in the natural sciences, we
+notice that they all rotate around a definition derived from the psychology of
+form, which Lalande, in the second edition of his dictionary of philosophy,
+summarizes as follows: ”in opposition to a simple combination of elements, a
+whole formed by phenomena in solidarity, such that each phenomenon
+depends on the others and can be what it is only in and through its relation
+with them.” 4 Structure then, like Gestalt, is a whole that contains something
+more than the simple sum of its parts.
+If we now observe more closely the use that contemporary criticism makes of
+this word, we notice that there is in it a substantial ambiguity, such that
+”structure” designates sometimes the prime and irreducible element of the
+object in question, and sometimes what causes the ensemble to be what it is
+(that is, something more than the sum of its parts), in other words its proper
+status.
+This ambiguity is not due to a simple imprecision or an arbitrariness on the
+part of the scholars who use the word ”structure”; rather, it is the consequence
+of a difficulty already observed by Aristotle at the end of the seventh book of
+the Metaphysics. Here he asks what causes the fact that--in an ensemble that
+59
+is not a mere aggregate (σωρ), but unity (ν, which corresponds to
+structure in the sense we have seen)--the whole is more than the simple
+combination of its elements: why, for instance, the syllable βα is not the
+consonant β plus the vowel α, but something else, τερν τι. Aristotle
+observes that the only solution that seems possible at first blush is that this
+”something else” is, in its turn, something other than an element or an
+ensemble constituted by elements. However, if this is true--as seems obvious,
+because this ”something else” must exist in some way--the solution to the
+problem infinitely recedes (ε πειρον βαδιει + ται), because the ensemble
+will now be the result of its parts plus another element, and the problem
+becomes that of the interminable search for an ultimate, irreducible element,
+beyond which it is not possible to proceed.
+This was precisely the case for those thinkers who determined the character
+of nature as το πρω + τον and then looked for the prime elements (στοιχει
++ α). It was in particular the case for the Pythagoreans: numbers (ριθμο),
+because of their particular nature, at once material and immaterial, seemed to
+be the prime elements, and it was impossible to go back past them; thus the
+Pythagoreans thought that numbers were the original principles of all things.
+Aristotle's reproach to them was that they considered numbers at once as an
+element, that is, as the ultimate component, minimum quantum, and also as
+that which causes something to be what it is, as the original principle of the
+presence of an ensemble ( Metaphysics i, 9 90)a).
+For Aristotle, the ”something else” that causes the whole to be more than the
+sum of its parts had to be something radically other, that is, not an element
+that existed in the same way as the others-even if it were a prime, more
+universal element--but something that could be found only by abandoning the
+terrain of division ad infinitum to enter a more essential dimension. Aristotle
+designates this dimension as the ατα του +  ε + ναι, the ”cause of
+being,” and the οσα, the principle that gives origin and maintains every thing
+in presence: not a material element but Form (μορ κα ε + δο).
+Therefore, in the passage from the second book of the Physics referred to
+earlier, Aristotle refuses the theory expounded by Antiphon and by all those
+who define nature as elementary matter, τ ρρθμιστον, and instead
+identifies nature, that is, the original principle of presence, precisely with
+υθμ, structure understood as synonymous with Form.
+If we now ask again about the ambiguity of the term ”structure” in the
+sciences of man, we see that in a way they make the same mistake that
+Aristotle attributed to the Pythagoreans. They start from the idea of structure
+as a whole that contains something more than its elements, but then--
+precisely to the extent that they intend to construct themselves as ”sciences”
+by abandoning the region of philosophical inquiry--they understand this
+”something” as an element in its turn: the prime element, the ultimate
+quantum beyond which the object loses its reality. And since, as had already
+happened for the Pythagoreans, mathematics seems to offer a way to escape
+infinite regression, structural analysis seeks everywhere the original cipher
+(ριθμ) of the phenomenon that is its object, and tends more and more to
+adopt a mathematical method, thus joining that general process of
+mathematization of human concerns that is one of the essential
+characteristics of our time. 5
+60
+Structural analysis, then, understands structure not only as υθμ but also
+as number and elementary principle, that is, as precisely the opposite of a
+structure in the sense that the Greeks gave to this word. The search for
+structure in criticism and linguistics paradoxically corresponds to the
+obscuring and fading into the background of structure in its original meaning.
+In structuralist research, then, there takes place a phenomenon analogous to
+that which took place in contemporary physics after the introduction of the
+notion of quantum action, because of which it is no longer possible to know at
+the same time the posi tion of a corpuscle (the ”figure,” as Descartes said, in
+an expression corresponding to the Greek σχη + μα) and the amount of its
+movement. Structure in the sense of υθμ and structure in the sense of
+ριθμ are two quantities traditionally conjugated in the sense that this
+expression assumes in contemporary physics, according to which it is not
+possible to know both at once. Hence the necessity to adopt statistical and
+mathematical methods, as in quantum physics: methods that make it possible
+to connect in a unitary representation the two conjugated quantities.
+However, at least where the adoption of an exclusively mathematical method
+is impossible, structuratist inquiry remains condemned to oscillate endlessly
+between the two contradictory semantic poles of the term ”structure”:
+structure as rhythm, as that which causes something to be what it is, and
+structure as number, element and minimal quantum. Thus, to the extent that
+structuralist criticism asks about the work of art, the aesthetic idea of form is
+the ultimate obstacle that it can elude but not overcome, since it remains
+dependent on the aesthetic-metaphysical determination of the work of art as
+matter and form, and therefore represents the work of art at once as the
+object of an ασθησι and as original principle.
+If rhythm and number are two opposite realities, then Hlderlin's statement
+cannot point toward the region inhabited by modern structuralist criticism.
+Rhythm is not structure in the sense of ριθμ, minimal quantum, and πρω
++ τον στοιχει + ον, primordial element, but is instead οσα, the principle of
+presence that opens and maintains the work of art in its original space. As
+such it is neither calculable nor rational; yet it is also not irrational, at least in
+the purely negative meaning this word is commonly understood to have. On
+the contrary, precisely because rhythm is that which causes the work of art to
+be what it is, it is also Measure and logos (ratio) in the Greek sense of that
+which gives every thing its proper station in presence. Rhythm attains this
+essential dimension, and is Measure in this original meaning; only for this
+reason is it able to open a region to human experience in which it can be
+perceived as ριθμ and numerus, as calculable measure expressible in
+number.
+It is only because rhythm situates itself in a dimension in which the very
+essence of the work of art is at stake that the ambiguity is possible in which
+the work of art presents itself on the one hand as rational and necessary
+structure and on the other as pure, disinterested play, in a space in which
+calculation and play appear to blur into each other.
+But what, then, is the essence of rhythm? What is the power that grants the
+work of art its original space? The word ”rhythm” comes from the Greek ω,
+to flow, as in the case of water. That which flows does so in a temporal
+dimension: it flows in time. According to a popular representation, time is
+61
+nothing but pure flow, the incessant sequence of instants along an infinite line.
+As early a figure as Aristotle, thinking of time as ριθμ κινσεο, the
+number of movement, and interpreting the instant as point (στγμη), situated
+time in the one-dimensional region of an infinite numerical succession. This is
+the dimension of time that is familiar to us and that our chronometers measure
+with ever greater precision--whether they employ for this purpose the
+movement of cogwheels, as in common watches, or of weight and the
+radiation of matter, as in atomic chronometers.
+Yet rhythm--as we commonly understand it--appears to introduce into this
+eternal flow a split and a stop. Thus in a musical piece, although it is
+somehow in time, we perceive rhythm as something that escapes the
+incessant flight of instants and appears almost as the presence of an
+atemporal dimension in time. In the same way, when we are before a work of
+art or a landscape bathed in the light of its own presence, we perceive a stop
+in time, as though we were suddenly thrown into a more original time. There is
+a stop, an interruption in the incessant flow of instants that, coming from the
+future, sinks into the past, and this interruption, this stop, is precisely what
+gives and reveals the particular status, the mode of presence proper to the
+work of art or the landscape we have before our eyes. We are as though held,
+arrested before something, but this being arrested is also a being-outside, an
+ek-stasis in a more original dimension.
+Such reserve--which gives and at the same time hides its gift -- is called in
+Greek ποχ. The verb ποχ, from which this word comes, has a double
+meaning: it means both to hold back, to suspend, and to hand over, to
+present, to offer. If we consider what we have just said about rhythm, that it
+reveals a more original dimension of time and at the same time conceals it in
+the onedimensional flight of instants, we can perhaps, with only apparent
+violence, translate ποχ as rhythm, and say: rhythm is ποχ, gift and
+reserve. But the verb πχω has a third meaning in Greek, a meaning that
+unites in itself the other two: to be, in the sense of ”to be present, to be there,
+to dominate, to hold.” Thus the Greeks said  νεμο, the wind is, that is: is
+present, dominates.
+It is in this third sense that we should understand the verse of a poet who
+flourished at the time when Greek thought uttered its original word: (Learn
+what Rhythm holds men.) 6
+'Ο υθμ: rhythm holds, that is, gives and holds back, πχει. Rhythm
+grants men both the ecstatic dwelling in a more original dimension and the fall
+into the flight of measurable time. It holds epochally the essence of man, that
+is, gives him the gift both of being and of nothingness, both of the impulse in
+the free space of the work and of the impetus toward shadow and ruin. It is
+the original ecstasy that opens for man the space of his world, and only by
+starting from it can he experience freedom and alienation, historical
+consciousness and loss in time, truth and error.
+Now, perhaps, we are able to understand in its proper meaning Hlderlin's
+sentence on the work of art. It points neither to an interpretation of the work of
+art as structure--that is, at once as Gestalt and number--nor to an exclusive
+attention to the stylistic unity of the work and its proper ”rhythm,” since both
+the structural and the stylistic analysis remain within the aesthetic conception
+of the work of art both as the (scientifically recognizable) object of ασθησι
+62
+and as formal principle, opus of an operari. Instead, it points toward a
+determination of the original structure of the work of art as ποχ and rhythm,
+and thus situates it in a dimension in which the very structure of man's beingin-
+the-world and his relationship with truth and history are at stake. By
+opening to man his authentic temporal dimension, the work of art also opens
+for him the space of his belonging to the world, only within which he can take
+the original measure of his dwelling on earth and find again his present truth
+in the unstoppable flow of linear time.
+In this authentic temporal dimension, the poetic status of man on earth finds
+its proper meaning. Man has on earth a poetic status, because it is poiesis
+that founds for him the original space of his world. Only because in the poetic
+ποχ he experiences his being-in-the-world as his essential condition does a
+world open up for his action and his existence. Only because he is capable of
+the most uncanny power, the power of pro-duction into presence, is he also
+capable of praxis, of willed and free activity. Only because he attains, in the
+poetic act, a more original temporal dimension is he a historical being, for
+whom, that is, at every instant his past and future are at stake.
+Thus the gift of art is the most original gift, because it is the gift of the original
+site of man. The work of art is neither a cultural ”value” nor a privileged object
+for the ασθησι of the spectators, nor the absolute creative power of the
+formal principle; instead it situates itself in a more essential dimension,
+because it allows man to attain his original status in history and time in his
+encounter with it. This is why Aristotle can say in the fifth book of the
+Metaphysics: ”arts are also called 'beginnings,' and of these especially the
+architectonic arts” ( Metaphysics V, 1013a).
+That art is architectonic means, etymologically: art, poiesis, is pro-duction
+(τκτω) of origin (ρχ), art is the gift of the original space of man,
+architectonics par excellence. Just as all other mythictraditional systems
+celebrate rituals and festivals to interrupt the homogeneity of profane time
+and, reactualizing the original mythic time, to allow man to become again the
+contemporary of the gods and to reattain the primordial dimension of creation,
+so in the work of art the continuum of linear time is broken, and man recovers,
+between past and future, his present space.
+To look at a work of art, therefore, means to be hurled out into a more original
+time: it means ecstasy in the epochal opening of rhythm, which gives and
+holds back. Only by starting from this situation of man's relationship with the
+work of art is it possible to comprehend how this relationship--if it is
+authentic--is also for man the highest engagement, that is, the engagement
+that keeps him in the truth and grants to his dwelling on earth its original
+status. In the experience of the work of art, man stands in the truth, that is, in
+the origin that has revealed itself to him in the poietic act. In this engagement,
+in this being-hurled-out into the ποχη of rhythm, artists and spectators
+recover their essential solidarity and their common ground.
+When the work of art is instead offered for aesthetic enjoyment and its formal
+aspect is appreciated and analyzed, this still remains far from attaining the
+essential structure of the work, that is, the origin that gives itself in the work of
+art and remains reserved in it. Aesthetics, then, is unable to think of art
+according to its proper statute, and so long as man is prisoner of an aesthetic
+perspective, the essence of art remains closed to him.
+63
+This original structure of the work of art is now obscured. At the extreme point
+of its metaphysical destiny, art, now a nihilistic power, a ”self-annihilating
+nothing,” wanders in the desert of terra aesthetica and eternally circles the
+split that cuts through it. Its alienation is the fundamental alienation, since it
+points to the alienation of nothing less than man's original historical space. In
+the work of art man risks losing not simply a piece of cultural wealth, however
+precious, and not even the privileged expression of his creative energy: it is
+the very space of his world, in which and only in which he can find himself as
+man and as being capable of action and knowledge.
+If this is true, when man has lost his poetic status he cannot simply
+reconstruct his measure elsewhere: ”it may be that any other salvation than
+that which comes from where the danger is, is still within non-safety [Unheil].”
+7 Whether and when art will again have the task of taking the original measure
+of man on earth is not, therefore, a subject on which one can make
+predictions; neither can we say whether poiesis will recover its proper status
+beyond the interminable twilight that covers the terra aesthetica. The only
+thing we can say is that art will not simply be able to leap beyond its shadow
+to climb over its destiny.（见《没有内容的人》，58-64）
