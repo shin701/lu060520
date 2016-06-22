@@ -1,0 +1,211 @@
+理论的七种含义
+=============================
+发布时间：2010-03-14 11:42
+ Theory1. If you use the word ‘theory’ in the sense of theory1, what you mean
+by it is a general proposition, or logically-connected system of general propositions,
+which establishes a relationship between two or more variables. As an example, let us
+consider the ‘mass society version’ of the ‘breakdown theory’ of social movements:
+“Individuals are most likely to join social movements when they have few personal
+ties within a community and a weak sense of identification with that community”
+(Useem 1980:357). This theory establishes a relationship between the variables ‘likelihood
+of joining social movements,’ ‘number of personal ties within a certain community,’
+and ‘strength of sense of identification with a certain community.’ But what
+I would like to stress is that if the theory were put in symbolic form, it would have
+to be universally quantified. The subject of the sentence is not ‘some individuals,’
+‘late nineteenth-century individuals,’ or ‘Chinese individuals.’ The theory establishes
+a relationship between those three variables in general, independently of things like
+time and place.
+Likewise, when it is said that ‘empirical investigations should make a theoretical
+contribution,’ what is usually meant is that ‘empirical investigations should make a
+theoretical1 contribution.’ For instance, suppose you write a paper about two social
+178 SOCIOLOGICAL THEORY
+movements that arose during the May Revolution of 1810 in Buenos Aires. For it
+to be accepted for publication in a mainstream sociology journal, some conclusion
+about social movements in general must have been drawn. Or, to put it using a
+ubiquitous and highly-revealing euphemism, the empirical investigation must have
+‘suggested’ some more general conclusion. If there is no such a conclusion, the
+reviewers would probably point out that the paper is ‘atheoretical’ or, more benignly,
+that it is ‘undertheorized.’
+Theory2. A theory2 is an explanation of a particular social phenomenon. In this
+sense, if you say that you have a ‘theory’ about the demise of the Valois dynasty in
+late-sixteenth-century France, what you mean is that you can offer an explanation
+of it. This explanation should identify a number of ‘factors’ or ‘conditions,’ which
+individually should pass some sort of counterfactual test for causal relevance, and
+whose interaction effects should be somehow taken into account. (A theory2 could
+be an explanation of some other kind; I consider only causal explanations because of
+their hegemony in contemporary sociology.) So, for example, a theory2 of the concept
+of the self tells one why at a certain point in history such a concept came into being.
+A theory2 of the stock market crash of October 1929 tells one what brought it
+about. A theory2 of the victory of the White Party in the 1860 presidential elections
+in Uruguay tells one why it is that it won.
+Several epistemological understandings of social explanation are compatible with
+the aims of theory2, some of which would see theory1 as a misguided project. By
+contrast, the deductive-nomological model of explanation posits a special relation
+between theory1 and theory2. As Hempel (1965:240) puts it, “in empirical science,
+the explanation of a phenomenon consists in subsuming it under general empirical
+laws.” In this view, then, one or more theories1 logically entail a certain theory2.
+For instance, in order to explain why the Uruguayan White Party won in 1860, it
+is necessary (and sufficient) to appeal to one or more general propositions about
+voting behavior, electoral politics, party systems, and so on. What is important from
+my point of view, however, is that even for the deductive-nomological model, theory1
+and theory2 remain distinct entities.
+Theory3. Like theory1 and theory2, the main goal of a theory3 is to say something
+about empirical phenomena in the social world. However, the main questions that
+theory3 sets out to answer are not of the type ‘what x causes y?’ Rather, given a
+certain phenomenon P (or a certain fact, relation, process, trend), it asks: ‘what does
+it mean that P?,’ ‘is it significant that P?,’ ‘is it really the case that P?,’ ‘what is P
+all about?,’ or ‘how can we make sense of or shed light on P?’ Thus, one can think
+of theory3 as a hermeneutical task, even if theorists3 interpret social reality rather
+than texts, and they do not necessarily share the philosophical inclinations of the
+hermeneutical tradition. To put it another way, what theories3 offer is an original
+‘interpretation,’ ‘reading,’ or ‘way of making sense’ of a certain slice of the empirical
+world. They may shed new light on an empirical problem, help one understand some
+social process, or reveal what ‘really’ went on in a certain conjuncture. Unlike theory1,
+theory3 does not view P as the value of a variable y, which in turn is related to other
+variables in such a way that can be described by a function y = F(x1, x2, . . ., xn).
+Unlike theory2, theory3 may or may not causally explain P.
+For example, that you have a theory3 of corruption in twentieth-century Latin
+American politics does not mean that you have identified its causes. Nor does it
+mean that you know how this case fits into a system of social laws about politics,
+corruption, the law, and morality, which specifies the ‘conditions under which’
+corruption occurs. Rather, you may mean that your theory helps understand what
+THE MEANING OF ‘THEORY’ 179
+corruption in twentieth-century Latin American politics ‘is all about’; that it provides
+a ‘better interpretation’ of corruption in twentieth-century Latin American politics;
+or that it tells a story about corruption in twentieth-century Latin American politics
+that is illuminating, instructive, helpful, or edifying. Now, the exact nature of these
+‘interpretations’ is difficult to establish a priori, codify, and standardize. Therefore,
+theory3 may strike one as conceptually vague, methodologically problematic, or just
+unscientific. While they are rarer in U.S. sociology, theories3 are a staple of some
+Latin American and European sociological traditions (cf. Abend 2006).
+Theory4. The word ‘theory’ and some of its derivatives are sometimes used to refer
+to the study of and the students of the writings of authors such as Marx, Weber,
+Durkheim, Simmel, Parsons, Habermas, or Bourdieu. These ‘studies’ are variously
+described as ‘interpretations,’ ‘analyses,’ ‘critiques,’ ‘hermeneutical reconstructions,’
+or ‘exegeses.’ They often involve the study of ‘meaning,’ in either of the two following
+meanings of ‘meaning.’ First, they may ask what the author of a text ‘really’ meant,
+that is, what she wanted to say when she wrote a particular passage (or essay, book,
+oeuvre). Most of the authors with which theory4 concerns itself put forward very
+complex arguments, which they put forward in a very complex style. Thus, their
+writings lend themselves to discussion about what exactly the argument is. In addition
+to these discussions, one can reconstruct the logic of these arguments, identify how
+the question is framed and how this framing affects the range of possible answers,
+spell out assumptions, crucial concepts, borrowed ideas, etc. Furthermore, most of
+these authors have produced a large body of work, so theory4 may also consider
+how their thinking evolved, and, more generally, how they relate to their ancestors
+and contemporaries. Second, theory4 may ask what the meaning of a certain text is
+in another sense, namely, what is its significance, relevance, usefulness, what was or
+is original about it, how it has been drawn upon, etc.
+Most U.S. departments of sociology have on their faculty one or more persons
+who are said to be ‘theorists.’ The graduate and undergraduate courses they teach are
+typically called ‘sociological theory,’ ‘social theory,’ ‘classical theory,’ ‘contemporary
+theory,’ or something like that. By saying ‘theorists’ and ‘theory courses’ in these
+contexts one generally means theorists4 and theory4 courses. Finally, note that you
+can say that you: ‘are’ a theorist4; ‘do’ theory4; work in the field of theory4; teach
+a theory4 class; have written a theory4 paper; or that one of your scholarly interests
+is theory4. In fact, in most of these contexts it is likely that the word ‘theory’ be
+taken to mean theory4. However, you cannot have, have developed, or put forward a
+theory4. If the expressions ‘have a theory,’ ‘have developed a theory,’ or ‘put forward
+a theory’ occur in a sentence, the word ‘theory’ is not being used in the sense of
+theory4. Strangely, the predicate ‘(be) a theory4’ cannot be applied to the content of
+a theory4 paper, to the product of the activity of doing theory4, or to the work of a
+theorist4.
+Theory5. A theory5 is a Weltanschauung, that is, an overall perspective from which
+one sees and interprets the world. Unlike theories1, theories2, and theories3, theories5
+are not about the social world itself, but about how to look at, grasp, and represent
+it. That is, theories5 focus on our conceptual and linguistic equipment—for example,
+the nature of the location from which we look at the social world, the lexicon and
+syntax by means of which we talk about it, the nature of our conceptual scheme,
+the categories into which we group things, and the logical relations that there can
+be between concepts. Obviously, these ‘conceptual’ and ‘linguistic’ choices entail,
+are associated with, or are predicated upon many more general epistemological and
+ontological views, which theorists5 may or may not explicitly articulate. To name but
+180 SOCIOLOGICAL THEORY
+a few: what can be known, what is worth knowing, what kind of questions can be
+asked, what counts as good evidence, whom are we talking to, what the social world
+is made of, what properties can these entities have, how they fit together, and so on.
+In its ideal-typical form, the core of a theory5 does not have truth-values. While
+its actual manifestations often include theories1 and theories2, this is not logically
+necessary. For the thrust of theory5 is, so to speak, syntactic rather than semantic.
+In other words, theories5 (again, in their ideal-typical form) do not offer propositions
+about what the social world is like (e.g., ‘Education is correlated with political
+participation’ or ‘The main cause of the fall of the Roman Empire was an economic
+crisis’). Rather, they offer a way of looking at it or a way of talking about it (e.g.,
+‘Society can be thought of as a system’ or ‘The social world can be understood
+as containing objects with properties and variables with values’).2 Indeed, there are
+interesting similarities between theory5 and Kant’s categories of understanding. Theory5
+can be seen as providing one with an a priori framework (scheme, grid, map,
+net, plan), a framework that is independent from experience, logically prior to any
+contact with the social world. Thus, it would provide the conditions for the very
+possibility of experience (or, more conservatively, the conditions for the intelligibility
+of experience).
+When one speaks of ‘postmodern theory,’ ‘poststructuralist theory,’ ‘feminist theory,’
+‘queer theory,’ ‘critical theory,’ ‘Marxist theory,’ ‘structural-functionalist theory,’
+‘network exchange theory,’ ‘game theory,’ and ‘rational choice theory,’ one is often
+using the word ‘theory’ in this sense. Theory5 can also occur as an adjective in expressions
+such as ‘theoretical approach,’ ‘theoretical school,’ ‘theoretical framework,’
+‘theoretical perspective,’ ‘theoretical tradition,’ ‘theoretical viewpoint,’ ‘orienting theoretical
+strategy,’ and ‘theoretical paradigm.’ This last one, of course, draws a parallel
+between the field of sociological theory and Kuhn’s account of the history of science
+(Ritzer 1980). Another common example is the expression ‘theory-laden,’ which is
+often predicated of ‘observation’ or ‘perception.’
+Theory6. Lexicographers trace the etymology of the word ‘theory’ to the late Latin
+noun ‘theoria,’ and the Greek noun ‘theoria’ and verb ‘theorein’ (usually translated as
+“to look at,” “to observe,” “to see,” or “to contemplate”). The connotations of these
+words include detachment, spectatorship, contemplation, and vision. This etymology
+notwithstanding, some people use the word ‘theory’ to refer to accounts that have
+a fundamental normative component. This usage I identify as theory6. For example,
+the contemporary projects of ‘critical theory,’ ‘feminist theory,’ and ‘postcolonial
+theory’ are explicitly normative ones, which usually reject the fact/value dichotomy,
+and hence the supposedly value-neutral sociological theory. The same is true of a
+good deal of ‘Marxist theory’ and ‘neo-Marxist theory,’ which draw inspiration from
+Marx’s eleventh thesis on Feuerbach. Indeed, the expression ‘social theory’—as opposed
+to ‘sociological theory’—can have similar connotations. At least, self-defined
+‘social theorists’ are more likely to do theory6 than, say, theory1. The basic point
+for my purposes is that the word ‘theory’ can be used to refer to a normative, and
+indeed political, account—a far cry from other senses of it. (The expression ‘social
+theory’ transcends the discipline of sociology and has close connections with the
+humanities—see, e.g., Christian 1988; de Man 1986; Jay 1996; Knapp and Michaels
+2Sometimes these statements are presented as propositions about what the social world is like (e.g.,
+‘Society is a system,’ ‘Society is a text,’ ‘Education is a variable,’ ‘Social life is a theatrical performance’).
+I take these formulations to be ellipses of ‘Society can be (profitably) thought of as a system,’ ‘Society can
+be (profitably) thought of as a text,’ etc. For how could the truth-value of ‘Society is a text’ or ‘Education
+is a variable’ be determined?
+THE MEANING OF ‘THEORY’ 181
+1982. In fact, ‘social theorists’ deliberately try to transcend disciplinary boundaries.
+Not surprisingly, ‘social theory’ has been used in a number of different ways. Moreover,
+these usages, as well as the relationships between ‘sociological theory’ and ‘social
+theory,’ have considerably changed over time—think of ‘social theory’ as used
+by Stinchcombe [1968], Merton [1949, 1968], Goode [1973], or Coleman [1990]. Unfortunately,
+I cannot carry out a thorough analysis of ‘social theory’ in this paper
+[see Seidman and Alexander (2001)].)
+Theory7. Many sociologists have written about issues such as the ‘micro-macro
+problem,’ the ‘problem of structure and agency,’ or ‘the problem of social order.’
+This type of work is usually thought to fall within the domain of sociological theory.
+One may also use the word ‘theory’ to refer to discussions about the ways in which
+‘reality’ is ‘socially constructed’; the scientific status of sociology (value freedom, the
+idea of a social law, the relations between explanation and prediction, explanation
+and understanding, reasons and causes, and the like); or the ‘relativity’ of morality.
+In these examples the word ‘theory’ assumes a distinct meaning, which I distinguish
+as theory7.
+Theory7 projects often include theory4 elements (for instance, a reconstruction of
+what Marx, Weber, and Durkheim said about the problem under consideration, or
+what they would have said had they considered it). Moreover, as a matter of fact,
+theorists7 are often theorists4 as well. Yet, whatever its usefulness or reasonableness,
+this correlation is not necessary but contingent. Theory7 and theory4 remain two
+different projects. Similarly, while there can be relations between theory5 and theory7,
+occasionally even relations of necessity, the meaning of the two terms remains distinct.
+Theory7 does not refer to an overarching Weltanschauung, a way of looking at or
+representing the social world. Rather, it refers to the study of certain special problems
+that sociology has encountered. Even though it is because of its being in the business
+of empirically investigating society that sociology has encountered these problems,
+they are not empirical problems themselves (for example, they cannot be resolved
+by means of empirical methods). They may be described as ‘philosophical’ problems,
+insofar as they call for reflection upon the nature of knowledge, language, and reality,
+and some sort of conceptual analysis. In fact, most of these problems have been taken
+up in philosophy as well, usually under different rubrics, in a different voice, and in
+isolation from the sociological literature. To conclude with a reflexive note, the present
+paper might be said to be a ‘theory’ paper mostly in the sense of theory7.
+The Meaning of ‘Theory’
+GABRIEL ABEND
+Northwestern University
